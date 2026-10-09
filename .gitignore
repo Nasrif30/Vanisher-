@@ -1,0 +1,9 @@
+/build/
+/Release/
+/Debug/
+/VANISHER.exe
+/ewr_tests.exe
+*.log
+.vs/
+*.user
+*.suo
